@@ -1,3 +1,3 @@
 ## Issue Template
 
-- https://github.com/wk-j/issue-tempmlate/issues/new/choose
+- https://github.com/wk-j/issue-template/issues/new/choose
